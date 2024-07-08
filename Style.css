@@ -17,7 +17,7 @@
     height: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
-    background-image: url('/imagemZelda1.webp');
+    background-image: url('/imagemZelda1.jpg');
     background-size: cover;
   }
   header {
@@ -55,7 +55,7 @@
     width: 50%;
     height:30%;
     background-color: rgba(66, 57, 3, 0.568);
-    background-image: url('/imagemZelda2.jpeg');
+    background-image: url('/imagemZelda2.jpg');
     background-size: cover;
     
   }
