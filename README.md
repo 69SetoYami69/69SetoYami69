@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://69setoyami69.github.io/69SetoYami69/Index.html
+https://69setoyami69.github.io/Index.html
 <!--
 **69SetoYami69/69SetoYami69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
