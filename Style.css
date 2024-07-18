@@ -13,18 +13,18 @@
     padding: 0 2%;
     
   }
-  html, body{
+  html,body{
     height: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
-    background-image: url('/imagemZelda1.jpg');
+    background-image: url('https://media.wired.com/photos/633c95ef85e7a4cc2f802256/master/pass/Breath-of-the-Wild-Casual-Gamer-Culture.jpg');
     background-size: cover;
   }
   header {
     height: 200px;
     padding: 20px 0;
   }
-    
+  
   .logo{
     width:50%;
   }
@@ -36,7 +36,7 @@
   }
   
   .menu a{
-    color:rgb(243, 243, 243);
+    color:black;
     text-decoration: none;
     font-weight: bold;
     margin-right: 15px;
@@ -46,7 +46,7 @@
     height: calc(100% - 200px);
     position: relative;
   }
-  
+
   .extras{
     position:absolute;
     border-radius: 10%;
@@ -55,11 +55,11 @@
     width: 50%;
     height:30%;
     background-color: rgba(66, 57, 3, 0.568);
-    background-image: url('/imagemZelda2.jpg');
+    background-image: url('https://cdn.ome.lt/YE_UeTwmTsADb5FKQu0r12HvPkc=/770x0/smart/uploads/conteudo/fotos/Breath-of-the-Wild_Cz2FA6C.jpg');
     background-size: cover;
     
   }
-  
+
   .social-midia{
     position: absolute;
     right: 510px;
@@ -80,20 +80,17 @@
   .texto-sobre h1{
     font-size: 50px;
   }
+  
   .texto-sobre p{
     margin: 20px 0;
-    color: rgb(16, 187, 255);
+    color: rgb(77, 43, 43);
     font-size: 20px;
     font-weight: bold;
     max-width: 800px;
-    font-family: Lucida Sans;
   }
-
-@media (max-width: 574px){
-    header{
-        display: none;
-    }
-}
-@media screen {
   
-    }
+  @media (max-width: 574px){
+        header{
+           display:none;
+        }
+  }
